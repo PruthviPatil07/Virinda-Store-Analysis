@@ -41,10 +41,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ### 👩‍💻 Author
 **Your Name**  
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/pruthviraj-patil-data-analyst/)
-
----
-
-### Screenshots
-*Consider adding some screenshots of your Power BI dashboard here to make the README more visually appealing.*
+[GitHub Profile](https://github.com/PruthviPatil07) | [LinkedIn](https://www.linkedin.com/in/pruthviraj-patil-data-analyst/)
 
